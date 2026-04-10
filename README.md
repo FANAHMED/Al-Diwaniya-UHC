@@ -1,71 +1,58 @@
-# 💸 SalaryFlow
+# ⚔️ Al Diwaniya UHC
 
-SalaryFlow is a modern personal finance dashboard designed to help users take full control of their money.  
-Track salary, expenses, subscriptions, and savings in one clean and powerful interface.
+Al Diwaniya UHC is a ready-to-use Minecraft UHC server setup designed for quick deployment and smooth gameplay.  
+Just upload the files, add the correct server version, and start playing.
 
 ---
 
 ## ✨ Overview
 
-SalaryFlow is a web-based finance tracker built with React and Vite.  
-It helps users manage their monthly budget, monitor spending habits, and plan ahead using real inputs.
+This project provides a complete Ultra Hardcore (UHC) server configuration for Minecraft 1.8.8.  
+It is built to make hosting UHC games simple, fast, and efficient.
 
 ---
 
 ## 🚀 Features
 
-- 💰 Track salary and remaining balance  
-- 📊 Monitor expenses in real time  
-- 🔁 Manage subscriptions with renewal alerts  
-- 🎯 Set and track savings goals  
-- 📈 View spending insights and charts  
-- 🏷️ Create custom categories  
-- 💾 Auto-save using local storage  
+- ⚔️ Pre-configured UHC setup  
+- ⚡ Easy and fast deployment  
+- 🎮 Optimized for Minecraft 1.8.8  
+- 🔧 Clean and organized configuration  
 
 ---
 
-## 🛠️ Technologies Used
+## 🔌 Plugins Included
 
-- ⚛️ React  
-- ⚡ Vite  
-- 📊 Recharts (for charts)  
-- 🎨 Lucide React (icons)  
-- 🟨 Node.js (required to run the project)  
+- **SkinsRestorer** – allows players to use custom skins  
 
 ---
 
+## 🛠️ Setup Guide
 
-## 🖥️ How to Run
-
-### 1. Make sure you have Node.js installed
-
-### 2. Install dependencies
-npm install
-
-### 3. Start the project
-npm run dev
-
-### 4. Open in your browser
-http://localhost:5173
+1. Upload all files to your server hosting  
+2. Download a Minecraft server jar for version **1.8.8 (Spigot required)**  
+3. Start the server  
+4. Join and enjoy the UHC experience  
 
 ---
 
 ## ⚠️ Important Notes
 
-- 💾 All data is saved in the browser using local storage  
-- 🧹 Clearing browser storage will reset saved data  
+- This setup is made for **Minecraft 1.8.8**  
+- The server jar must be **Spigot 1.8.8**  
+- `server.jar` is not included  
 
 ---
 
 ## 🎯 Purpose
 
-- Help users manage money more easily  
-- Provide a clean and modern finance dashboard  
-- Make budgeting simple and practical  
+- Make UHC servers easy to set up  
+- Reduce configuration time  
+- Provide a ready-to-use competitive environment  
 
 ---
 
-## 👤 Author
+## 🙌 Author
 
 Ahmed  
 
@@ -73,5 +60,4 @@ Ahmed
 
 ## ⭐ Final Note
 
-SalaryFlow is built to make money tracking simple, clean, and actually useful.  
-It focuses on clarity, ease of use, and better control over personal finances.
+This project is designed for players who want a fast and clean UHC setup on Minecraft 1.8.8.
